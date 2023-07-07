@@ -1,0 +1,9 @@
+*{
+    margin: 15px;
+}
+
+div{
+    border:20px solid violet;
+    margin-bottom: 5px;
+    background-color: aquamarine;
+}
